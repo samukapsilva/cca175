@@ -1,0 +1,74 @@
+2018-04-05 14:33:35,864  WARN [ModalContext] - ScalaProject - Project Funcoes has platform default sourceLevel.
+2018-04-05 14:33:35,865  WARN [ModalContext] - ScalaProject - Project Funcoes runs on platform default installation.
+2018-04-05 14:33:36,228  WARN [Worker-6] - ScalaProject - Project Funcoes has platform default sourceLevel.
+2018-04-05 14:33:36,235  WARN [Worker-6] - ScalaProject - Project Funcoes runs on platform default installation.
+2018-04-05 14:33:55,372  WARN [Worker-6] - ScalaProject - Project Funcoes has platform default sourceLevel.
+2018-04-05 14:33:55,373  WARN [Worker-6] - ScalaProject - Project Funcoes runs on platform default installation.
+2018-04-05 14:36:41,490  WARN [main] - ScalaProject - Project Funcoes has platform default sourceLevel.
+2018-04-05 14:36:41,490  WARN [main] - ScalaProject - Project Funcoes runs on platform default installation.
+2018-04-05 14:36:45,027  WARN [main] - ScalaProject - Project Funcoes has platform default sourceLevel.
+2018-04-05 14:36:45,027  WARN [main] - ScalaProject - Project Funcoes runs on platform default installation.
+2018-04-05 14:36:45,455  WARN [Worker-1] - ScalaProject - Project Funcoes has platform default sourceLevel.
+2018-04-05 14:36:45,456  WARN [Worker-1] - ScalaProject - Project Funcoes runs on platform default installation.
+2018-04-05 14:37:10,245  WARN [Worker-10] - ScalaProject - Project Funcoes has platform default sourceLevel.
+2018-04-05 14:37:10,245  WARN [Worker-10] - ScalaProject - Project Funcoes runs on platform default installation.
+2018-04-05 14:38:49,074  WARN [ModalContext] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 14:38:49,075  WARN [ModalContext] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 14:38:55,184  WARN [Worker-10] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 14:38:55,184  WARN [Worker-10] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 14:39:09,711  WARN [main] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 14:39:09,711  WARN [main] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 14:39:20,575  WARN [main] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 14:39:20,575  WARN [main] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 14:39:20,754  WARN [Worker-11] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 14:39:20,754  WARN [Worker-11] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 14:40:29,134  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 161
+2018-04-05 14:40:30,176  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 162
+2018-04-05 14:58:40,584  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2018-04-05 14:58:42,125  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 169
+2018-04-05 14:58:44,677  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 165
+2018-04-05 14:58:45,739  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 166
+2018-04-05 15:05:19,606  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 401
+2018-04-05 15:05:20,676  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 402
+2018-04-05 15:05:36,934  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 403
+2018-04-05 15:05:54,033  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 408
+2018-04-05 15:05:56,629  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 408
+2018-04-05 15:05:57,702  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 410
+2018-04-05 15:06:01,315  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 413
+2018-04-05 15:06:01,324  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 413
+2018-04-05 15:06:09,428  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 414
+2018-04-05 15:06:09,429  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 414
+2018-04-05 15:06:13,497  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 421
+2018-04-05 15:06:13,498  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 421
+2018-04-05 15:06:15,585  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 427
+2018-04-05 15:06:15,588  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 427
+2018-04-05 15:07:54,712  WARN [Worker-17] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:07:54,712  WARN [Worker-17] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 15:16:43,886  WARN [Worker-21] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:16:43,886  WARN [Worker-21] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 15:17:29,552  WARN [Worker-20] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:17:29,554  WARN [Worker-20] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 15:17:32,714  WARN [Worker-21] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:17:32,714  WARN [Worker-21] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 15:17:35,291  WARN [Worker-22] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:17:35,292  WARN [Worker-22] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 15:18:40,113  WARN [Java indexing] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:18:40,114  WARN [Java indexing] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 15:18:40,608  WARN [Worker-19] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:18:40,608  WARN [Worker-19] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 15:18:52,959  WARN [Worker-19] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:18:52,960  WARN [Worker-19] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 15:19:19,665  WARN [Worker-23] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:19:19,665  WARN [Worker-23] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 15:19:34,688  WARN [Worker-19] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:19:34,689  WARN [Worker-19] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 15:19:47,277  WARN [Worker-24] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:19:47,277  WARN [Worker-24] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 15:20:29,983  WARN [Worker-22] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:20:29,983  WARN [Worker-22] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 15:21:13,213  WARN [Worker-19] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:21:13,213  WARN [Worker-19] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 15:21:21,704  WARN [Worker-24] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:21:21,704  WARN [Worker-24] - ScalaProject - Project upgradeScala runs on platform default installation.
+2018-04-05 15:22:39,401  WARN [Worker-21] - ScalaProject - Project upgradeScala has platform default sourceLevel.
+2018-04-05 15:22:39,401  WARN [Worker-21] - ScalaProject - Project upgradeScala runs on platform default installation.

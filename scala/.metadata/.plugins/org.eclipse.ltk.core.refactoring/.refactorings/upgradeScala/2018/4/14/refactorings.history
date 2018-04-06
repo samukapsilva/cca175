@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;upgradeScala/src/br/com/sam/funcoes.scala&apos; to &apos;Funcoes.scala&apos;" description="Rename resource &apos;funcoes.scala&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/br/com/sam/funcoes.scala" name="Funcoes.scala" stamp="1522952319612" updateReferences="true"/>
+</session>
