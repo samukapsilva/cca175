@@ -1,0 +1,14 @@
+
+# Created by https://www.gitignore.io/api/scala
+
+### Scala ###
+/.settings/
+*.class
+*.log
+\bin
+*.project
+*.classpath
+*.cache-main
+
+
+# End of https://www.gitignore.io/api/scala
